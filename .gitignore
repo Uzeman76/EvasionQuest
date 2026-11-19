@@ -1,0 +1,14 @@
+# Fichiers à ignorer selon votre demande
+*.pdf
+*.loo
+*.loo1
+*.db
+
+# Fichiers temporaires et bases de données SQLite associés (optionnel mais recommandé)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Fichiers système courants (Windows / macOS)
+.DS_Store
+Thumbs.db
