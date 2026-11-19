@@ -1,8 +1,9 @@
 # Fichiers à ignorer selon votre demande
 *.pdf
 *.loo
-*.loo1
+*.lo1
 *.db
+*.sqbpro
 
 # Fichiers temporaires et bases de données SQLite associés (optionnel mais recommandé)
 *.db-journal
